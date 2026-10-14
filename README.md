@@ -1,48 +1,62 @@
-# Generative AI Projects
+# AI Chatbot
 
-A collection of 10+ Generative AI projects built using Python, LangChain, Hugging Face, and Large Language Models (LLMs). This repository covers core GenAI concepts through hands-on projects and practical applications.
+## Overview
+An AI-powered chatbot built using Python and Generative AI to answer user queries and provide interactive conversations.
 
-## Projects & Concepts Covered
-
-- LLM Integration
-- Prompt Templates
-- Output Parsers
-- Chains
-- Runnables (LCEL)
-- Document Loaders
-- Text Splitters
-- Embeddings
-- Vector Databases
-- Retrievers
-- Retrieval-Augmented Generation (RAG)
-- Chatbots and Chat History
-- YouTube Chatbot using LangChain
-- PDF Chatbot
-- Question Answering Systems
-- Tool Calling
-- Tool Building
-- AI Agents
-- Structured Output
-- Hugging Face Models
-- Conversational AI
-- AI Research Assistant
+## Features
+- Interactive conversations
+- AI-generated responses
+- Natural language understanding
+- Simple and user-friendly interface
 
 ## Technologies Used
-
 - Python
-- LangChain
-- Hugging Face
-- LLMs
-- Streamlit
-- Vector Databases
-- Git and GitHub
+- Generative AI
+- Large Language Models (LLMs)
 
-## Repository Goal
+## Installation
 
-To learn and implement Generative AI concepts by building practical projects, from basic LLM applications to advanced RAG pipelines and AI agents.
+Clone the repository:
+
+```bash
+git clone https://github.com/ridasohail343-tech/Chatbot.git
+cd Chatbot
+```
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv myenv
+.\myenv\Scripts\Activate.ps1
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the chatbot:
+
+```bash
+python chatbot.py
+```
+
+## Project Structure
+
+```text
+Chatbot/
+├── chatbot.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
 ## Author
 
-**Rida Sohail**
+Rida Sohail
 
-GitHub: [ridasohail343-tech](https://github.com/ridasohail343-tech)
+GitHub: https://github.com/ridasohail343-tech
+
